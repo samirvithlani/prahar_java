@@ -1,0 +1,103 @@
+types of interfaces
+
+1)marker interface
+	:this interface does not contain any method or any variable /property blank interface called marker interface..
+	:scynronisazation ,serilizable
+	
+2)functional interface:-
+	this interce contains only one method....,lamda function we req functional interface...
+3)
+
+
+Type of interface
+
+marker interface :- it dose not any property...
+
+
+functional interface : it has only method 
+use : lambda operation ....
+
+
+access spec
+
+private it can be use in same class only..
+
+default  inside class | out side class | but not out side of package |it will not acced out side og package not even child class
+
+protected  inside class | out side class | but not out side of package |child clss object out side of package..
+
+public  inside class | out side class | out side class in parent | out side of package also
+
+
+
+inh
+con
+overloading
+ovverding
+ploy
+abst
+encap
+
+
+
+super:
+
+variable super.a
+
+
+method super.methodname()
+method super.methodname(12)
+
+
+const:
+
+parent class has only param const
+
+
+thn child class has to call explicitly param const using super keyword inside child class respective constructor
+
+
+Property Module
+
+
+
+properties()
+{
+
+
+		add prop
+	how many  --> array  10 
+	array -->
+	125 -->
+
+
+	view prop()
+	
+	0 index --> 120
+	1           555
+	
+
+	delepete prop(){
+
+		pls enter your house no   --> 555
+		555 -> index  -->search
+		index ->remove...
+		update ->	
+
+	}
+
+	
+
+}
+
+
+
+manageProperty{
+
+	main
+
+}
+
+
+
+
