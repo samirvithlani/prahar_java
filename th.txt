@@ -98,6 +98,75 @@ manageProperty{
 
 }
 
+////////////////////////////////////////////////////////////
+excpetion
+exception Handling
+
+
+				Error            Exception
+
+synetx follow
+symtinc mistake                                  Developer logical software   programme continues stop
+
+solve ,resolve					 Handle
+
+
+					Throwable (C)
+
+			Error[c]				Exception[c]
+
+		no child						RunTimeException
+										-->arrayIndex
+								        SQL
+										-->
+									IO
+
+
+
+2 ways to handle exception
+
+1)try catch and finally block
+
+
+2)throws keyword
+
+--------------------------------------------------------------------------------------------------------------
+2 type exception
+
+1)compileTime /checeked
+
+	try catch and finally block
+	throws keyword
+
+
+---------------------------------------
+
+2)Runtime excpetion /uncheckd exc
+		
+	try catch and finally block
+
+	throws keyword	
+
+
+we need add any block after try either finally or catch
+
+try ->catch n no
+try -->catch ,finally
+
+try ->finally  ->yes
+try ->catch ->  yes
+****************************
+HW 02/10/2021
+************
+
+ArrayINdexOutOfBound exception
+
+
+
+
+
+
+
 
 
 
