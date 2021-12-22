@@ -161,6 +161,23 @@ HW 02/10/2021
 
 ArrayINdexOutOfBound exception
 
+count word...
+count spaces....
+
+take one name fromm user and it must be palindrom
+1)
+if name is palindrom stroe in seperate array..
+and after size of an array will be 5 print an array..
+Eg:madam
+
+2)take one char from user and cont no of accurencess in para of that char
+
+3)find palindrome name from para
+and store in array and print it....
+
+
+
+
 
 
 
