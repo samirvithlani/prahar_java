@@ -14,6 +14,7 @@ public class StringBufferDemo {
 		System.out.println(sb);
 		sb.insert(1, "X");
 
+		
 		sb.deleteCharAt(1);
 
 		sb.setCharAt(1, 'P');
